@@ -27,4 +27,3 @@ uses GSLIB 3D Co Simulation to build derived 3D models for all other properties 
 
 extracts columns of simulated values as the set of synthetic vertical well dataset
 
-an example log is plotted to show results
