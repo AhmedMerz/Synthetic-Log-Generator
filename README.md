@@ -6,6 +6,8 @@ synthetic datasets are commonly needed for method and workflow testing
 
 this workflow is provided to support students, researchers
 
+![image](https://github.com/user-attachments/assets/2f99e023-c0b8-4949-8a4d-714d20f8b3f7)
+
 ## Methodology
 This workflow:
 
